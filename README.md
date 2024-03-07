@@ -1,3 +1,5 @@
 # AnimatedSwith
 Youe can see demo here : https://demo.rigidkala.ir/
-[screen-capture.webm](https://github.com/RezaKhajvand/AnimatedList/assets/120022216/7cda1098-e93a-400d-b166-97240050ab4f)
+
+https://github.com/RezaKhajvand/AnimatedList/assets/120022216/c0227d40-3551-404f-8d73-4fa5dcc8fc11
+
